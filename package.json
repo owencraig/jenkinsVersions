@@ -1,0 +1,17 @@
+{
+  "name": "get Jenkins Versions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "versions": "npm install && node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "console.table": "^0.4.0",
+    "moment": "^2.10.6",
+    "request": "^2.65.0"
+  }
+}
